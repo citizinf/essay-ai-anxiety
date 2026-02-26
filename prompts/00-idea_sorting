@@ -1,0 +1,17 @@
+I am writing an essay which will exactly follow the outline found in the file iteration/00in-basic_outline.md. Each "outline section" consists of a Markdown h1 heading. The heading text, as well as all the bullets below it before the next h1 heading, illustrate what the section contents should focus on in the final essay.
+
+I have brainstormed many ideas already and want to incorporate them into the essay in the proper sections. Each "idea" is recorded as a top-level bullet, along with the supporting indented bullets below it before the next top-level bullet. The ideas are found both in static/gkeep.md (the whole file), as well as static/md.md (between lines 22 and 92 only).
+
+Please review each "idea" in these 2 files, and determine which of the 10 "outline sections" it best fits in, or, if none of the "outline sections" are a good match, mark it as uncategorized. Do not edit any of the files mentioned above - instead, write all of your work into a new file, the "sorted ideas file," iteration/00out-sort_ideas_into_outline.md. This new file should end up structured as follows:
+- There should be 11 Markdown h1 headings; the first 10 directly copied from the h1 headings of each "outline section", and the last should be exactly "# Uncategorized".
+- Each sorted idea should be listed as a single top-level bullet below the proper h1 heading. The idea should be formatted as follows, in a single line delimited by `|`:
+  - one of `EXCL`, `GOOD`, or `FAIR`, indicating how strong of a match the idea is to its section (the labels correspond to "excellent," "good," and "fair"),
+  - the filename it came from (either gkeep.md or md.md),
+  - the line number of the original idea in its idea file,
+  - a quoted excerpt of the first few words of the original idea text followed by an ellipsis,
+  - and finally a single brief sentence which summarizes the idea.
+- Within each section, all of the gkeep.md ideas should come first, and the order of the idea bullets should match the order those ideas appear in each of the 2 idea files.
+
+In order to maintain a coherent context, as soon as you have completed processing a single idea, write the result into the "sorted ideas file." Do not attempt to process all of the ideas before writing down all the results at once.
+
+Please avoid following any web links or performing any web searches. Just use the reasoning you have available to you locally, as well as the contents of the files I have already provided as input.

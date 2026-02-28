@@ -2,17 +2,19 @@
 If I dump this on reddit, I may be able to use md to make the headings clickable (using URL IDs and anchors).
 
 I should list the articles that inspired this essay / that I am responding to (roughly in the order I read them):
-- Dario Amodei - The Adolescence of Technology <https://www.darioamodei.com/essay/the-adolescence-of-technology>
-- Cory Doctorow - AI companies will fail. We can salvage something from the wreckage <https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur>
-- Matt Shumer - Something Big is Happening <https://shumer.dev/something-big-is-happening>
-- Autor & Thompson - Beyond Job Displacement: How AI Could Reshape the Value of Human Expertise <https://www.digitalistpapers.com/vol2/autorthompson>
-- Brookings (X, X, X, X) - Generative AI, the American worker, and the future of work <https://www.brookings.edu/articles/generative-ai-the-american-worker-and-the-future-of-work>
-- Brookings (X, X, X, X) - Measuring US workers’ capacity to adapt to AI-driven job displacement <https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement>
-- Prof G Media (author unspecified) - 3 Human Skills That Make You Irreplaceable in an AI World <https://www.profgmarkets.com/p/3-human-skills-that-make-you-irreplaceable-in-an-ai-world>
-- Annie Lowrey - The Worst-Case Future for White-Collar Workers <https://www.theatlantic.com/ideas/2026/02/ai-white-collar-jobs/686031/> (paywall workaround at wayback machine: <https://web.archive.org/web/20260000000000*/https://www.theatlantic.com/ideas/2026/02/ai-white-collar-jobs/686031/>)
-- Sam Altman - Moore's Law for Everything <https://moores.samaltman.com/>
-- Alap Shah - The Global Intelligence Crisis <https://alapshah1.substack.com/p/the-global-intelligence-crisis>
-- Citrini Research - THE 2028 GLOBAL INTELLIGENCE CRISIS <https://www.citriniresearch.com/p/2028gic>
+- (essay) Dario Amodei - The Adolescence of Technology <https://www.darioamodei.com/essay/the-adolescence-of-technology>
+- (article) Cory Doctorow - AI companies will fail. We can salvage something from the wreckage <https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur>
+- (blog post) Matt Shumer - Something Big is Happening <https://shumer.dev/something-big-is-happening>
+- (essay) Autor & Thompson - Beyond Job Displacement: How AI Could Reshape the Value of Human Expertise <https://www.digitalistpapers.com/vol2/autorthompson>
+- (report) Brookings (X, X, X, X) - Generative AI, the American worker, and the future of work <https://www.brookings.edu/articles/generative-ai-the-american-worker-and-the-future-of-work>
+- (report) Brookings (X, X, X, X) - Measuring US workers’ capacity to adapt to AI-driven job displacement <https://www.brookings.edu/articles/measuring-us-workers-capacity-to-adapt-to-ai-driven-job-displacement>
+- (article) Prof G Media (author unspecified) - 3 Human Skills That Make You Irreplaceable in an AI World <https://www.profgmarkets.com/p/3-human-skills-that-make-you-irreplaceable-in-an-ai-world>
+- (article) Annie Lowrey - The Worst-Case Future for White-Collar Workers <https://www.theatlantic.com/ideas/2026/02/ai-white-collar-jobs/686031/>
+- (article) Josh Tyrangiel - America Isn’t Ready for What AI Will Do to Jobs <https://www.theatlantic.com/magazine/2026/03/ai-economy-labor-market-transformation/685731/>
+- (blog post) Sam Altman - Moore's Law for Everything <https://moores.samaltman.com/>
+- (article) Alap Shah - The Global Intelligence Crisis <https://alapshah1.substack.com/p/the-global-intelligence-crisis>
+- (research note) Citrini Research - THE 2028 GLOBAL INTELLIGENCE CRISIS <https://www.citriniresearch.com/p/2028gic>
+- (speech) Christopher Waller - Operationalizing AI at the Federal Reserve <https://www.federalreserve.gov/newsevents/speech/waller20260224a.htm>
 
 Context: my background; not an investor (professionally, anyway - I do pay close attention to my retirement accounts), business leader, or academic; I was professionally a high performing software engineer (some firmware) for 6 years, 7 if you count a few summer internships. During my "sabbatical" I have continued to work on software, recently getting derailed by exploring AI coding tools, being wildly impressed, and falling into the rabbit hole of online essays & analysis. I think the current commentary has an overrepresentation of intelligent laypeople making fuzzy and subjective claims, as well as policy non-experts expressing opinions on policy and technology non-experts expressing opinions on technology. Obviously I will be contributing to this mismatch in some respects, but I think my viewpoint of technical core competency and interest in economic policy and STS can be valuable. At least in all the popular/viral stuff I've read so far there hasn't been an engineer's and not-highly-capital-rich person's viewpoint yet.
 

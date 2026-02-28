@@ -12,6 +12,7 @@
 - security: risks from external enemies, domestic terrorists, and countries engaging in abuses against their own citizens
 - economic: total devaluation of all human labor (cognitive or otherwise) with no wealth/value redistribution system in place
 - a casual observer will note this is a very common dystopian trope found in modern science fiction, and dystopian fiction has a long history of being quite popular, for some reason
+- This is logically sound: _if_ the premises are true, then we are in store for a nasty, technofeudalist world as described. We have ample reason to expect many of the premises to not be true, which I will describe in detail in the following sections.
 
 # (IV) The physical world imposes limits
 - AI is digital, "disembodied," making it easy to overlook how its inputs and outputs are dependent on the physical world

@@ -67,7 +67,8 @@
 
 # (IX) Handling the post-scarcity transition problem
 **distinguish post-scarcity transition (more serious paradigm shift) vs transition of mainly labor and jobs due to disruption (we have the script and prior experience, some will need support but not a massive shift) which is discussed in previous sections**
-**this section is more focused on post-scarcity transition, not the disruption-transition which is discussed above
+**this section is more focused on post-scarcity transition, not the disruption-transition which is discussed above**
+**it may be better to frame this section with several components: (1) we may not need to ever worry about this if above sections and associated policy with precedent is applied, (2) even if we do go down this path it may not be as horribly disruptive as feared since it could be slow etc., (3) what might happen if we do go down this road at whatever speed**
 
 - GOOD | md.md | 30 | "Belief that AI may disadvantage the..." | Question whether high-skill cognitive workers could be displaced earlier than “lower-ability” workers if AI becomes a general cognitive substitute.
 - GOOD | md.md | 52 | "regarding Amodei's \"lower intellectual ability\"..." | Use workforce composition stats to argue many “lower-ability” workers are already outside white-collar jobs, complicating simple displacement narratives.

@@ -16,7 +16,7 @@
 - EXCL | gkeep.md | 6 | "🔨 physical world limits..." | Note how GPU scarcity, monitored data centers, slow real-world iteration, and material constraints limit both AI deployment and physical-world harms.
 - EXCL | md.md | 33 | "AI compute is _not limitless_..." | Emphasize that compute and energy are scarce physical resources, constraining both access to AI and what large-scale “superhuman” deployment can do.
 - EXCL | md.md | 34 | "AI being digital & just knowledge..." | Stress that many high-end harms are bottlenecked by physical materials and detectability, so “information-only” AI is not an instant WMD unlock.
-- GOOD | md.md | 83 | "model miniaturization/distillation / how hardware..." | Note that whether powerful models require centralized GPU farms or can run locally will shape centralization, monitoring, and the pace of societal adaptation.
+- ⭐GOOD | md.md | 83 | "model miniaturization/distillation / how hardware..." | Note that whether powerful models require centralized GPU farms or can run locally will shape centralization, monitoring, and the pace of societal adaptation. **relevance is a _bit_ of a stretch but I can frame it as hardware improvement / smaller nanometer processes, etc. so I guess it's ok to mention. This is the whole thing about the paper is already public and it could be like the transistor, widely spread tech with little value capture, which is a very important point of optimism to hit**
 
 # (V) Discovery is not advancement: extrapolation to infinity is unlikely
 
@@ -80,6 +80,7 @@
 - ⭐GOOD | md.md | 78 | "_Cost-cutting vs innovation_ incentive as..." | Explain why firms may default to cost-cutting (short-termism and financialization) and argue that incentive and regulatory design may be needed to shift behavior toward innovation.
 - ⭐EXCL | md.md | 79 | "The \"_transition problem_\" is similar..." | Use an inflation analogy to argue the in-between state is the real danger, so policy must bridge unemployment and price-structure mismatch before any post-scarcity end state.
 - ⭐EXCL | md.md | 82 | "NOT just GDP, market indexes, etc..." | Argue that AI-driven deflation can make GDP and markets look worse even as real welfare improves, so we need better metrics than dollarized aggregates.
+**Details matter; "lower GDP" can look very different "in the field", distribution problems - e.g. 3% deflation and wages drop 3% a year - very different than wages dropping 2% a year while employment shrinks 1% a year, even if the aggregate numbers, stock prices, etc would be similar. Policy response tools that are targeted and well-designed will politically go over much better than broad blunt instruments like "re-energize inflation by printing tons of money"**
 - GOOD | md.md | 84 | "\"I encourage economists to consider what..." | Urge economists to define and track better disruption metrics so society can detect transition harms early and tune policy based on evidence.
 - ⭐GOOD | md.md | 87 | "Ban _noncompetes_ nationally, or globally..." | Propose banning noncompetes for AI-linked layoffs to help displaced workers move, start firms, and redeploy skills during rapid change.
 - FAIR | md.md | 91 | "(perhaps more far-fetched) a price floor,..." | Float a temporary tax/price-floor on routine corporate AI use to slow displacement and fund/encourage smoother adaptation during the transition.

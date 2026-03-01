@@ -25,6 +25,8 @@ Knowing the problem is half the solution, so the first step is to build confiden
 - Citrini Research - THE 2028 GLOBAL INTELLIGENCE CRISIS [^A12 [link](https://www.citriniresearch.com/p/2028gic)]
 - Christopher Waller - Operationalizing AI at the Federal Reserve [^A13 [link](https://www.federalreserve.gov/newsevents/speech/waller20260224a.htm)]
 
+(context on my background, extend the truck analogy)
+
 # Appendix A: External links
 - (A1) <https://www.darioamodei.com/essay/the-adolescence-of-technology>
 - (A2) <https://www.theguardian.com/us-news/ng-interactive/2026/jan/18/tech-ai-bubble-burst-reverse-centaur>

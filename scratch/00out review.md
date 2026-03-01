@@ -12,6 +12,8 @@
 - EXCL | md.md | 74 | "_\"dark AI\"_ (lightly discussed..." | Describe a potentially stable “AI feudalism” equilibrium where many can’t compete for cognitive work and must rely on bad jobs, redistribution, or capital income.
 
 # (IV) The physical world imposes limits
+**re: examples include GPU/electricity/land shortages; ChatGPT brought this up as well**
+**analogy for "digital is more frictionless than physical" - like playing the Sims too much and internalizing the idea that building a house is as easy as clicking a few buttons, as long as you're rich enough**
 
 - EXCL | gkeep.md | 6 | "🔨 physical world limits..." | Note how GPU scarcity, monitored data centers, slow real-world iteration, and material constraints limit both AI deployment and physical-world harms.
 - EXCL | md.md | 33 | "AI compute is _not limitless_..." | Emphasize that compute and energy are scarce physical resources, constraining both access to AI and what large-scale “superhuman” deployment can do.

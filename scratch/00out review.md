@@ -1,4 +1,4 @@
-**NOTE TO SELF: remember to review all sections even when working on a specific one; I didn't move bullets around when suggesting recategorizations**
+**NOTE TO SELF: remember to review all sections (for orange text anyway) even when working on a specific one; I didn't move bullets around when suggesting recategorizations**
 
 # (I) An overview of AI anxiety
 
@@ -18,7 +18,8 @@
 - EXCL | gkeep.md | 6 | "🔨 physical world limits..." | Note how GPU scarcity, monitored data centers, slow real-world iteration, and material constraints limit both AI deployment and physical-world harms.
 - EXCL | md.md | 33 | "AI compute is _not limitless_..." | Emphasize that compute and energy are scarce physical resources, constraining both access to AI and what large-scale “superhuman” deployment can do.
 - EXCL | md.md | 34 | "AI being digital & just knowledge..." | Stress that many high-end harms are bottlenecked by physical materials and detectability, so “information-only” AI is not an instant WMD unlock.
-- ⭐GOOD | md.md | 83 | "model miniaturization/distillation / how hardware..." | Note that whether powerful models require centralized GPU farms or can run locally will shape centralization, monitoring, and the pace of societal adaptation. **relevance is a _bit_ of a stretch but I can frame it as hardware improvement / smaller nanometer processes, etc. so I guess it's ok to mention. This is the whole thing about the paper is already public and it could be like the transistor, widely spread tech with little value capture, which is a very important point of optimism to hit**
+- ⭐GOOD | md.md | 83 | "model miniaturization/distillation / how hardware..." | Note that whether powerful models require centralized GPU farms or can run locally will shape centralization, monitoring, and the pace of societal adaptation. **relevance is a _bit_ of a stretch (not so much a "limit" as an opportunity) but I can frame it as hardware improvement / smaller nanometer processes, etc. so I guess it's ok to mention. This is the whole thing about the paper is already public and it could be like the transistor, widely spread tech with little value capture, which is a very important point of optimism to hit ((ChatGPT))**
+**this should also be discussed in the optimistic scenario section**
 
 # (V) Discovery is not advancement: extrapolation to infinity is unlikely
 
@@ -33,6 +34,7 @@
 
 # (VI) The pitfall of technological determinism: AI is not an alien invasion with its own thoughts and goals; its development and application are fully controlled by humans in society
 **this section has overlap with economic/labor discussion**
+**business examples: <https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html>**
 
 - EXCL | gkeep.md | 11 | "🌐tech determinism: how we plan..." | Emphasize that AI risks depend on human integration choices, so we need strong external guardrails and tool-access design based on cost-of-failure.
 - GOOD | gkeep.md | 60 | "This is kind of a management problem..." | Frame AI adoption as a supervision-and-control problem where oversight, hidden costs, and “tech debt” can offset raw automation speed.
@@ -68,6 +70,7 @@
 - ⭐GOOD | md.md | 73 | "I think one of the biggest changes..." | Argue that fast-moving AI will make cognitive skills non-static, so workers and firms must keep re-aiming at new moonshot-like tasks as old ones get automated.**may be somewhat relevant to post-scarcity**
 
 # (IX) Handling the post-scarcity transition problem
+**it's all mixed up, let's just include both transition problems here: displacement/instability with wage-labor capitalism evolving intact; and the path to post-scarcity - I can frame this as "we won't really know which one it is while it's happening so we have to understand both"**
 **distinguish post-scarcity transition (more serious paradigm shift) vs transition of mainly labor and jobs due to disruption (we have the script and prior experience, some will need support but not a massive shift) which is discussed in previous sections**
 **this section is more focused on post-scarcity transition, not the disruption-transition which is discussed above**
 **it may be better to frame this section with several components: (1) we may not need to ever worry about this if above sections and associated policy with precedent is applied, (2) even if we do go down this path it may not be as horribly disruptive as feared since it could be slow etc., (3) what might happen if we do go down this road at whatever speed**
@@ -80,6 +83,7 @@
 - ⭐GOOD | md.md | 71 | "_AI Revolution vs Industrial Revolution_:..." | Warn that the AI revolution may differ from past industrialization by causing major demand loss and circular-flow problems rather than broad-based wage growth. **Citrini**
 - FAIR | md.md | 75 | "_digital media/entertainment is saturated_..." | Argue that a leisure/creator-economy pivot (especially digital) has limited labor-absorption potential because it’s already saturated and hits diminishing returns.
 - ⭐GOOD | md.md | 78 | "_Cost-cutting vs innovation_ incentive as..." | Explain why firms may default to cost-cutting (short-termism and financialization) and argue that incentive and regulatory design may be needed to shift behavior toward innovation.
+**explain margins as "corporate wage", not all margins are bad, some margins are absolutely necessary to incentivize entrepreneurs. some firms have more significant moats like hardware/medical: I want a battle-tested pacemaker, not something from an AI startup trying to cut Abbott's margins. Some margins can be unjustified though, especially when coupled with already-high profitability and layoffs. In this case the best outcome is to set up market forces that can drive prices down and/or support employment.**
 - ⭐EXCL | md.md | 79 | "The \"_transition problem_\" is similar..." | Use an inflation analogy to argue the in-between state is the real danger, so policy must bridge unemployment and price-structure mismatch before any post-scarcity end state.
 - ⭐EXCL | md.md | 82 | "NOT just GDP, market indexes, etc..." | Argue that AI-driven deflation can make GDP and markets look worse even as real welfare improves, so we need better metrics than dollarized aggregates.
 **Details matter; "lower GDP" can look very different "in the field", distribution problems - e.g. 3% deflation and wages drop 3% a year - very different than wages dropping 2% a year while employment shrinks 1% a year, even if the aggregate numbers, stock prices, etc would be similar. Policy response tools that are targeted and well-designed will politically go over much better than broad blunt instruments like "re-energize inflation by printing tons of money"**
@@ -92,5 +96,6 @@
 - GOOD | md.md | 27 | "_lump of labor / size of the pie fallacies_..." | Counter the lump-of-labor intuition by arguing automation can expand the pie and reallocate human effort rather than erase it.
 - GOOD | md.md | 43 | "drawing a _parallel with mechanization_..." | Use mechanization analogies to argue that, like past waves, AI may erase some tasks while leaving many human roles intact.
 - ⭐EXCL | md.md | 48 | "⭐My optimistic scenario: vigorous competition..." | Sketch an optimistic path where democratized AI and strong competition compress margins, lower prices broadly, and keep incentives aimed at innovation.
+**another "solution idea": if AI remains centralized, compute owners should offer generous "free tiers" like AWS to make it easier for someone with a good AI-enabled idea to experiment and productionize it without significant upfront funding required to run AI workloads. This encourages innovation & competition, and penalizes slow-to-adapt firms trying to sit on unjustified fat margins (or trying to expand them with layoffs).**
 - ⭐GOOD | md.md | 69 | "2 types of new jobs: (1) AI..." | Separate AI-era job creation into AI-management roles and entirely new industries unlocked by major technological advances.
 - FAIR | md.md | 77 | "keeping in mind historical failures like..." | Question whether AI will create wholly new work categories without major physical-domain breakthroughs, and argue optimism should account for that uncertainty. **some overlap with transition problem, in case physical-domain breakthroughs don't happen or happen quickly enough**

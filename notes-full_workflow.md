@@ -4,6 +4,7 @@
 
 # general editing (focus on clarity/fluency, not so much effectiveness of communication of important ideas)
 - awkward word choice: proximity repetition, ...
+- well-tuned usage of italics, no bold
 
 # final step: proofreading
 - errors of grammar, syntax, spelling, style, etc.

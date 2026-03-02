@@ -92,6 +92,7 @@
 - FAIR | md.md | 91 | "(perhaps more far-fetched) a price floor,..." | Float a temporary tax/price-floor on routine corporate AI use to slow displacement and fund/encourage smoother adaptation during the transition.
 
 # (X) Optimism is justified
+**say something about the public sector and non-profits... "I assume margins are not as big of a deal, the financial structure behind how these orgs operate is different... I think they want to do as much as they can with the people they have available; budgets determined by 'external forces' like congressional auth and fundraising"**
 
 - GOOD | md.md | 27 | "_lump of labor / size of the pie fallacies_..." | Counter the lump-of-labor intuition by arguing automation can expand the pie and reallocate human effort rather than erase it.
 - GOOD | md.md | 43 | "drawing a _parallel with mechanization_..." | Use mechanization analogies to argue that, like past waves, AI may erase some tasks while leaving many human roles intact.

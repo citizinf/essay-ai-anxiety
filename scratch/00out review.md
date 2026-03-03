@@ -22,19 +22,22 @@
 **this should also be discussed in the optimistic scenario section**
 
 # (V) Discovery is not advancement: extrapolation to infinity is unlikely
+**If the model is only trained on materials from average 5-year-olds, it's not going to magically produce adult-level reasoning if we just add enough GPUs. The same logic can be extended to humans vs superhuman reasoning.**
 
 - EXCL | gkeep.md | 24 | "📈 discovery is not enhancement..." | Push back on linear extrapolation by noting NL is the big leap, many feats were already possible, and “smarter than humans” depends on what dimensions actually matter.
 ~~- GOOD | gkeep.md | 54 | "ai: reviewable examples - AI..." | Illustrate that AI’s speed gains can come with accuracy and audit-cost tradeoffs, so “automation” depends on how reviewable the work product is.~~ **(reviewability fits into either tech determinism or economic/labor discussion)**
 - GOOD | md.md | 28 | "Does AI never regress or _forget_?..." | Flag that AI capability may not be monotonic because context limits and version-to-version regressions can undercut “inevitable superhuman” narratives.
 - EXCL | md.md | 29 | "AI performs well, but does it perform..." | Argue that underspecified prompts and human-provided inputs/benchmarks remain central, so fully self-prompting AI may hit hard limits or degrade in quality.
 - EXCL | md.md | 46 | "measuring agentic AI capabilities by task..." | Critique task-length benchmarks for ignoring parallelism and integration overhead, which can dominate real-world “agent” effectiveness.
-- GOOD | md.md | 47 | "AI shortcomings / jagged frontier:..." | Emphasize that AI’s “jagged frontier” capability profile differs from humans, so assumptions about what work is easy or valuable may break.
+**a human employee with 50% success rate would be fired without much delay**
+- GOOD | md.md | 47 | "AI shortcomings / jagged frontier:..." | Emphasize that AI’s “jagged frontier” capability profile differs from humans, so assumptions about what work is easy or valuable may break. **maybe mention in tech determinism section, not here**
 - GOOD | md.md | 76 | "_powerful AI_ maximally optimal projections..." | Caution against maximalist forecasts by recalling how even transformative technologies were historically overhyped in specific ways.
-- ⭐**One I forgot in the brainstorm ideas: sending info across the world has advanced from "weeks" 200 years ago to "seconds" now. Naive extrapolation would say, look at the progress of the last 200 years related to communications, imagine what the next 200 years will look like! But latency of comms cannot go negative; it's already close to 0, so extrapolating the rate of progress is misleading. Other tech advancements have shown "capping out", e.g. indoor plumbing has been around 1000s of years, while centralized water treatment is much more advanced, the whole thing with pooping in a toilet and flushing is much the same.**
+- **One I forgot in the brainstorm ideas: sending info across the world has advanced from "weeks" 200 years ago to "seconds" now. Naive extrapolation would say, look at the progress of the last 200 years related to communications, imagine what the next 200 years will look like! But latency of comms cannot go negative; it's already close to 0, so extrapolating the rate of progress is misleading. Other tech advancements have shown "capping out", e.g. indoor plumbing has been around 1000s of years, while centralized water treatment is much more advanced, the whole thing with pooping in a toilet and flushing is much the same.** **there's already an oil analogy, don't overdo it**
 
 # (VI) The pitfall of technological determinism: AI is not an alien invasion with its own thoughts and goals; its development and application are fully controlled by humans in society
 **this section has overlap with economic/labor discussion**
 **business examples: <https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html>**
+**better reviewability example (& can work in Doctorow reverse centaur idea): rather than reading/summary, reviewing security camera footage, don't want false positives or misses. Since human effort/time either way is similar if output untrusted, vs summarizing where reading is far faster than writing.**
 
 - EXCL | gkeep.md | 11 | "🌐tech determinism: how we plan..." | Emphasize that AI risks depend on human integration choices, so we need strong external guardrails and tool-access design based on cost-of-failure.
 - GOOD | gkeep.md | 60 | "This is kind of a management problem..." | Frame AI adoption as a supervision-and-control problem where oversight, hidden costs, and “tech debt” can offset raw automation speed.

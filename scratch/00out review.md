@@ -1,4 +1,5 @@
 **NOTE TO SELF: remember to review all sections (for orange text anyway) even when working on a specific one; I didn't move bullets around when suggesting recategorizations**
+**breakpoints to track relevant bullets per essay section!**
 
 # (I) An overview of AI anxiety
 
@@ -37,7 +38,7 @@
 # (VI) The pitfall of technological determinism: AI is not an alien invasion with its own thoughts and goals; its development and application are fully controlled by humans in society
 **this section has overlap with economic/labor discussion**
 **business examples: <https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html>**
-**better reviewability example (& can work in Doctorow reverse centaur idea): rather than reading/summary, reviewing security camera footage, don't want false positives or misses. Since human effort/time either way is similar if output untrusted, vs summarizing where reading is far faster than writing.**
+**better reviewability example (& can work in Doctorow reverse centaur idea; we might expect some AI enabled worker to have no false positives or misses and also be faster, but this isn't the case everywhere; this needs to be recognized before some poor worker takes the blame for a mistake inevitable by design): rather than reading/summary, reviewing security camera footage, don't want false positives or misses. Since human effort/time either way is similar if output untrusted, vs summarizing where reading is far faster than writing.**
 
 - EXCL | gkeep.md | 11 | "🌐tech determinism: how we plan..." | Emphasize that AI risks depend on human integration choices, so we need strong external guardrails and tool-access design based on cost-of-failure.
 - GOOD | gkeep.md | 60 | "This is kind of a management problem..." | Frame AI adoption as a supervision-and-control problem where oversight, hidden costs, and “tech debt” can offset raw automation speed.
@@ -58,10 +59,10 @@
 
 - EXCL | gkeep.md | 17 | "🎓 entry level is not..." | Argue that “entry-level” work is a flexible task bundle, so firms can re-scope roles and use AI-native junior talent to build new kinds of human capital.
 - EXCL | gkeep.md | 44 | "ai: on entry level, thought..." | Use a “delete the entry-level layer” thought experiment to show the remaining gaps require human expertise and can reframe juniors as AI-enabled managers.
-- GOOD | gkeep.md | 63 | "ai key reviewability point: level..." | Highlight that generating output may get easier than auditing it, which creates a training problem for juniors who still need to learn how to review correctly.
+- GOOD | gkeep.md | 63 | "ai key **reviewability** point: level..." | Highlight that generating output may get easier than auditing it, which creates a training problem for juniors who still need to learn how to review correctly.
 - GOOD | gkeep.md | 69 | "adaptation: AI is relatively \"easy to..." | Note that AI tools have a low learning curve but a high mastery curve, letting motivated workers upskill even in organizations that adopt slowly.
 - EXCL | md.md | 36 | "Saying that _entry-level work_ is..." | Separate “entry-level work” from “entry-level people” to argue roles can evolve and AI-native juniors can still contribute and learn through auditing and apprenticeship-like paths.
-- GOOD | md.md | 44 | "how replaceable work is with AI..." | Argue that automation risk depends heavily on reviewability and error detectability, since cheap auditing makes replacement easier and costly auditing preserves human roles.
+- GOOD | md.md | 44 | "how replaceable work is with AI..." | Argue that automation risk depends heavily on **reviewability** and error detectability, since cheap auditing makes replacement easier and costly auditing preserves human roles.
 ~~- FAIR | md.md | 62 | "seems like cybersecurity will be wrapped..." | Suggest cybersecurity roles may be comparatively durable because AI-driven offense makes defense and safety engineering more central, not less.~~ **better fit would be a security section above**
 
 # (VIII) Moonshots can focus higher-value labor and experienced workers

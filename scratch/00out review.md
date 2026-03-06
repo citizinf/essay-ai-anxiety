@@ -55,18 +55,18 @@
 
 # (VII) Entry-level people don't have to fill entry-level jobs, because the meaning of "entry-level job" is going to change
 **this section has overlap with tech determinism**
-**discuss support for displaced workers**
+~~discuss support for displaced workers~~
 
 - EXCL | gkeep.md | 17 | "🎓 entry level is not..." | Argue that “entry-level” work is a flexible task bundle, so firms can re-scope roles and use AI-native junior talent to build new kinds of human capital.
 - EXCL | gkeep.md | 44 | "ai: on entry level, thought..." | Use a “delete the entry-level layer” thought experiment to show the remaining gaps require human expertise and can reframe juniors as AI-enabled managers.
-- GOOD | gkeep.md | 63 | "ai key **reviewability** point: level..." | Highlight that generating output may get easier than auditing it, which creates a training problem for juniors who still need to learn how to review correctly.
+~~- GOOD | gkeep.md | 63 | "ai key **reviewability** point: level..." | Highlight that generating output may get easier than auditing it, which creates a training problem for juniors who still need to learn how to review correctly.~~
 - GOOD | gkeep.md | 69 | "adaptation: AI is relatively \"easy to..." | Note that AI tools have a low learning curve but a high mastery curve, letting motivated workers upskill even in organizations that adopt slowly.
 - EXCL | md.md | 36 | "Saying that _entry-level work_ is..." | Separate “entry-level work” from “entry-level people” to argue roles can evolve and AI-native juniors can still contribute and learn through auditing and apprenticeship-like paths.
-- GOOD | md.md | 44 | "how replaceable work is with AI..." | Argue that automation risk depends heavily on **reviewability** and error detectability, since cheap auditing makes replacement easier and costly auditing preserves human roles.
+~~- GOOD | md.md | 44 | "how replaceable work is with AI..." | Argue that automation risk depends heavily on **reviewability** and error detectability, since cheap auditing makes replacement easier and costly auditing preserves human roles.~~
 ~~- FAIR | md.md | 62 | "seems like cybersecurity will be wrapped..." | Suggest cybersecurity roles may be comparatively durable because AI-driven offense makes defense and safety engineering more central, not less.~~ **better fit would be a security section above**
 
 # (VIII) Moonshots can focus higher-value labor and experienced workers
-**discuss support for displaced workers**
+~~discuss support for displaced workers~~
 
 - EXCL | gkeep.md | 30 | "🚀 moonshots / \"keep your..." | Use “moonshot” problems to surface where humans still add value (setup, context, metrics, physical execution) and to frame innovation as the durable path for workers and firms.
 - GOOD | gkeep.md | 50 | "ai: the counterintuitive, cognitively..." | Advise workers to aggressively test what AI can automate while deliberately building the remaining human skills and aiming at higher-level value creation.
@@ -74,10 +74,12 @@
 - ⭐GOOD | md.md | 73 | "I think one of the biggest changes..." | Argue that fast-moving AI will make cognitive skills non-static, so workers and firms must keep re-aiming at new moonshot-like tasks as old ones get automated.**may be somewhat relevant to post-scarcity**
 
 # (IX) Handling the post-scarcity transition problem
+**significant overlap with (X)**
 **it's all mixed up, let's just include both transition problems here: displacement/instability with wage-labor capitalism evolving intact; and the path to post-scarcity - I can frame this as "we won't really know which one it is while it's happening so we have to understand both"**
 **distinguish post-scarcity transition (more serious paradigm shift) vs transition of mainly labor and jobs due to disruption (we have the script and prior experience, some will need support but not a massive shift) which is discussed in previous sections**
 **this section is more focused on post-scarcity transition, not the disruption-transition which is discussed above**
 **it may be better to frame this section with several components: (1) we may not need to ever worry about this if above sections and associated policy with precedent is applied, (2) even if we do go down this path it may not be as horribly disruptive as feared since it could be slow etc., (3) what might happen if we do go down this road at whatever speed**
+**general concern about job displacement & "lower intellectual ability" - white collar means you studied academic stuff in college, means you present yourself to society as "creating value by using brain to do thinking work". So you must respond to a technology that can perform thinking work. No entitlement - "I got better grades / higher IQ" does not mean you _deserve_ to have more job stability; that was just coincidentally true over the past couple of gens. Tie in Brookings adaptability - there's a loose correlation but not a hard&fast rule about lower intellectual ability lining up directly with AI risk/exposure; many other factors like job responsibilities, savings, age, geographic location, the nature of the main labor skill itself (i.e. reliability/reviewability, an AI "core competency" or still ahead of the jagged frontier), overall macroeconomic health, etc.**
 
 - GOOD | md.md | 30 | "Belief that AI may disadvantage the..." | Question whether high-skill cognitive workers could be displaced earlier than “lower-ability” workers if AI becomes a general cognitive substitute.
 - GOOD | md.md | 52 | "regarding Amodei's \"lower intellectual ability\"..." | Use workforce composition stats to argue many “lower-ability” workers are already outside white-collar jobs, complicating simple displacement narratives.
@@ -94,14 +96,16 @@
 **Details matter; "lower GDP" can look very different "in the field", distribution problems - e.g. 3% deflation and wages drop 3% a year - very different than wages dropping 2% a year while employment shrinks 1% a year, even if the aggregate numbers, stock prices, etc would be similar. Policy response tools that are targeted and well-designed will politically go over much better than broad blunt instruments like "re-energize inflation by printing tons of money"**
 - GOOD | md.md | 84 | "\"I encourage economists to consider what..." | Urge economists to define and track better disruption metrics so society can detect transition harms early and tune policy based on evidence.
 - ⭐GOOD | md.md | 87 | "Ban _noncompetes_ nationally, or globally..." | Propose banning noncompetes for AI-linked layoffs to help displaced workers move, start firms, and redeploy skills during rapid change.
+**increase the ease of new business formation, including things like providing default/retroactive "limited liability" protections to people who start out as a sole proprietorship, avoiding the "file paperwork to avoid them coming after my house" thinking**
 - FAIR | md.md | 91 | "(perhaps more far-fetched) a price floor,..." | Float a temporary tax/price-floor on routine corporate AI use to slow displacement and fund/encourage smoother adaptation during the transition.
 
 # (X) Optimism is justified
+**significant overlap with (IX)**
 **say something about the public sector and non-profits... "I assume margins are not as big of a deal, the financial structure behind how these orgs operate is different... I think they want to do as much as they can with the people they have available; budgets determined by 'external forces' like congressional auth and fundraising"**
 
 - GOOD | md.md | 27 | "_lump of labor / size of the pie fallacies_..." | Counter the lump-of-labor intuition by arguing automation can expand the pie and reallocate human effort rather than erase it.
-- GOOD | md.md | 43 | "drawing a _parallel with mechanization_..." | Use mechanization analogies to argue that, like past waves, AI may erase some tasks while leaving many human roles intact.
+- GOOD | md.md | 43 | "drawing a _parallel with mechanization_..." | Use mechanization analogies to argue that, like past waves, AI may erase some tasks while leaving many human roles intact. **transition problem - exposure/adaptability of roles not necessarily reductionist to e.g. intellectual ability or how much overlap between AI skills and job skills**
 - ⭐EXCL | md.md | 48 | "⭐My optimistic scenario: vigorous competition..." | Sketch an optimistic path where democratized AI and strong competition compress margins, lower prices broadly, and keep incentives aimed at innovation.
 **another "solution idea": if AI remains centralized, compute owners should offer generous "free tiers" like AWS to make it easier for someone with a good AI-enabled idea to experiment and productionize it without significant upfront funding required to run AI workloads. This encourages innovation & competition, and penalizes slow-to-adapt firms trying to sit on unjustified fat margins (or trying to expand them with layoffs).**
-- ⭐GOOD | md.md | 69 | "2 types of new jobs: (1) AI..." | Separate AI-era job creation into AI-management roles and entirely new industries unlocked by major technological advances.
+- ⭐GOOD | md.md | 69 | "2 types of new jobs: (1) AI..." | Separate AI-era job creation into AI-management roles and entirely new industries unlocked by major technological advances. **ChatGPT** **jobs**
 - FAIR | md.md | 77 | "keeping in mind historical failures like..." | Question whether AI will create wholly new work categories without major physical-domain breakthroughs, and argue optimism should account for that uncertainty. **some overlap with transition problem, in case physical-domain breakthroughs don't happen or happen quickly enough**

@@ -97,11 +97,14 @@
 - GOOD | md.md | 84 | "\"I encourage economists to consider what..." | Urge economists to define and track better disruption metrics so society can detect transition harms early and tune policy based on evidence.
 - ⭐GOOD | md.md | 87 | "Ban _noncompetes_ nationally, or globally..." | Propose banning noncompetes for AI-linked layoffs to help displaced workers move, start firms, and redeploy skills during rapid change.
 **increase the ease of new business formation, including things like providing default/retroactive "limited liability" protections to people who start out as a sole proprietorship, avoiding the "file paperwork to avoid them coming after my house" thinking**
+**easier monetary policy, lower interest rates to boost investment... rethink inflation target, which is arbitrary and pegged to an explicit number while "full employment" is not; anyway, we could also see sustained deflation**
 - FAIR | md.md | 91 | "(perhaps more far-fetched) a price floor,..." | Float a temporary tax/price-floor on routine corporate AI use to slow displacement and fund/encourage smoother adaptation during the transition.
 
 # (X) Optimism is justified
+**maybe less strong; "choose optimism"; text can say along the lines of "optimistic scenarios are achievable with the right psychology and policy"**
 **significant overlap with (IX)**
 **say something about the public sector and non-profits... "I assume margins are not as big of a deal, the financial structure behind how these orgs operate is different... I think they want to do as much as they can with the people they have available; budgets determined by 'external forces' like congressional auth and fundraising"**
+**"if we are destined for AI abundance then all the innovation/development means we will be a lot closer when the job losses become unavoidable; enough wealth is available to make it politically feasible to perform redistribution in a post-wage-labor, post-scarcity world**
 
 - GOOD | md.md | 27 | "_lump of labor / size of the pie fallacies_..." | Counter the lump-of-labor intuition by arguing automation can expand the pie and reallocate human effort rather than erase it.
 - GOOD | md.md | 43 | "drawing a _parallel with mechanization_..." | Use mechanization analogies to argue that, like past waves, AI may erase some tasks while leaving many human roles intact. **transition problem - exposure/adaptability of roles not necessarily reductionist to e.g. intellectual ability or how much overlap between AI skills and job skills**

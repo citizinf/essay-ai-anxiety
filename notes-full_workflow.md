@@ -1,6 +1,10 @@
 # TODO
 
 # optimize for concision (CGPGrey quote on writing, cutting down 2/3 or 3/4 or whatever)
+- optimize for what people will remember, i.e. "the cliffsnotes version"
+- parts that don't make it into cliffsnotes should be engaging to read, like interesting metaphors; drier detailed discussion is a prime candidate for cutting
+- distill each section into 1-sentence main points
+- by line num identify paragraphs and paragraph sections that support particular points
 
 # general editing (focus on clarity/fluency, not so much effectiveness of communication of important ideas)
 - awkward word choice: proximity repetition, ...

@@ -1,7 +1,5 @@
 (Title: AI Anxiety, and What We Can Do About It)
 
-([crossposted at r/XYZ](<https://www.google.com>))
-
 # (I) Why is AI making people anxious?
 
 The early weeks of 2026 have been filled with intense public discussion about new and emerging risks developing as a result of powerful, rapidly advancing AI, especially in domains like national security and macroeconomic health. Many others have already written about these risks broadly and in detail—below I've shared a list of links to materials that I used in my research. Suffice it to say that the opportunity to upset the status quo, along with significant uncertainty about who the winners and losers will ultimately be, has people at all levels both excited and worried about the future.
@@ -180,7 +178,7 @@ Rapid change is already underway. But whether AI ultimately brings about an econ
 
 ---
 
-(break below into comment; say "search for Appendices to A Response to AI Anxiety"; talk about link lists and details on how I used AI)
+I have included some appendices with lists of the links I referenced and the AI workspace repo I used for help writing this essay. Search for "Appendices to AI Anxiety, and What We Can Do About It" in the comments.
 
 
 # Appendix A: External links
@@ -222,6 +220,6 @@ Rapid change is already underway. But whether AI ultimately brings about an econ
 - (B10) [LLMs in Scientific Progress](https://chatgpt.com/share/69a21995-8f80-8013-9f3d-8d6db03822b9#:~:text=enhance%20progress%20in%20domains%20such%20as): enhance progress in domains such as
 
 
-# Appendix C: Details on how I used AI to help me write this
+# Appendix C: How I used AI to help me write this
 
-(github)
+(2-sentence summary on codex and folder structure, see github and readme)

@@ -1,6 +1,7 @@
-# TODO
+# write the essay
 
 # optimize for concision (CGPGrey quote on writing, cutting down 2/3 or 3/4 or whatever)
+- the 40000 character limit is there. need to cut 30%
 - optimize for what people will remember, i.e. "the cliffsnotes version"
 - parts that don't make it into cliffsnotes should be engaging to read, like interesting metaphors; drier detailed discussion is a prime candidate for cutting
 - distill each section into 1-sentence main points

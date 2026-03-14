@@ -1,0 +1,21 @@
+# Directional overview and goals
+
+I am looking to shorten and improve the quality of my draft essay.
+
+The well-known quote "If I had more time, I would have written a shorter letter" applies to my case. My first draft is closer to a brain dump than a well-crafted piece of writing that someone else would find interesting and enjoyable to read. I'm also constrained by a maximum character limit. The essay needs to be cut by about 30% at least.
+
+I want to optimize the essay to focus on two things:
+- clear, concise communication of the main ideas and important points people will remember: the things that would appear in the "CliffsNotes summary" should be the main focus;
+- sections that are engaging to read, like original ideas and interesting metaphors.
+
+Anything that doesn't fit into the two categories above, like dry discussion or detailed technical deep dives, is a prime candidate for serious compression or removal. For things that do make the cut, I want the writing style to really be clear and concise, removing extraneous details, overly wordy phrasing, and unnecessary idea repetition.
+
+# Instructions
+
+Do not rearrange or rewrite sections of the essay. Right now, I just want to identify all of the key points in the essay and connect each paragraph to the key point (or points) it supports.
+
+Please review the entire essay at iteration/01in-essay_draft.md and distill each major section (h1 heading and following paragraphs) into "main idea"s. Write each main idea in the form of 1-2 sentences, into iteration/01out-main_ideas.md, and be sure to identify which section each main idea comes from. Number the main ideas so they can be easily referenced. Format this file in a structured way that is easy to parse when I quickly scan it.
+
+Then, for each "paragraph" in the essay (paragraphs are separated by blank lines), identify the paragraph by line number and list the main ideas it supports, if any (by main idea number). Based on your judgment, you can combine paragraphs into one unit if that makes things clearer, but generally avoid doing this, especially for long paragraphs. Append all this information to iteration/01out-main_ideas.md, in a structured way that is easy to parse.
+
+Thank you for helping to review my work!

@@ -12,7 +12,7 @@
 - well-tuned usage of italics, no bold
 - overuse or underuse of punctuation
 
-# final step: proofreading
+~~# final step: proofreading~~
 - errors of grammar, syntax, spelling, style, etc.
   - single/plural mismatches
   - improper verb forms/conjugations

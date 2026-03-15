@@ -1,0 +1,55 @@
+# Edit suggestions for `02in-essay_draft.md`
+
+Only localized, high-value edits are included here. Line numbers refer to `iteration/02in-essay_draft.md`.
+
+- `L5`: Change `Highly-educated people` to `Highly educated people`; the hyphen is unnecessary after an `-ly` adverb.
+- `L5`: Replace `which has been continuing downward` with `which has continued to decline`; it is cleaner and less bureaucratic.
+- `L25`: Replace `I'll be adding to this mismatch in some ways` with `I'll be contributing to that mismatch in some ways`; `adding to this mismatch` reads imprecisely.
+- `L25`: Consider changing `coolheaded` to `clear-eyed` or `cool-headed`; the current form looks slightly off.
+- `L30`: Delete the comma in `for trivial uses, or in ways`; it interrupts a simple `or` construction.
+- `L32`: Replace `Yet none of them are guaranteed` with `Yet none of those premises is guaranteed`; it is more precise and fixes the number mismatch.
+- `L37`: Replace `someone who played The Sims too much` with `someone who's played The Sims too much`; the tense is smoother.
+- `L39`: Replace `with no quick fix coming` with `with no quick fix in sight`; more idiomatic.
+- `L39`: Consider revising `including land, which requires cooperative local communities` to `including land, because new projects require cooperation from local communities`; the current phrasing makes `land` sound like the thing doing the requiring.
+- `L43`: Replace `terrorists and other nefarious activity` with `terrorists and other bad actors` or `terrorism and other nefarious activity`; the current phrase mixes people with activity.
+- `L43`: Replace `How about nitrogen fertilizer?` with `What about nitrogen fertilizer?`; it sounds more natural in analytical prose.
+- `L43`: Replace `control over that` with `control over it`; the pronoun is cleaner.
+- `L52`: Add a comma in `LLMs are not like other technologies though` -> `LLMs are not like other technologies, though`.
+- `L52`: If you want consistent American punctuation, change `Models are "grown", not designed.` to `Models are "grown," not designed.`
+- `L56`: Replace `falling out of human inputs` with `emerging from human inputs`; the current idiom sounds loose.
+- `L58`: Replace `isn't the proper comparison a human with internet access?` with `shouldn't the proper comparison be a human with internet access?`; the question scans more cleanly.
+- `L60`: Make the emphasis treatment consistent across `_NLP_`, `_speed_`, and `"tokenization"`; right now the first two are italicized and the third is in quotation marks.
+- `L62`: Tighten `not only codes up an app, but that also` to `not only codes up an app but also`; cleaner parallel structure.
+- `L64`: Delete the comma in `analyze a surreal image, and answer`; it slows the sentence unnecessarily.
+- `L66`: Replace `what was already possible before` with `what was already possible`; `already` and `before` duplicate each other.
+- `L73`: Consider `can power a city or flatten one`; it reads more cleanly than `can power or flatten a city`.
+- `L73`: Replace `promoting wise usage of AI` with `promoting wise use of AI`; that phrasing is less stiff.
+- `L75`: Change `effort needed to audit things stays mostly the same` to `the effort needed to audit them stays mostly the same`; it needs the article.
+- `L75`: Consider replacing `Many early casualties of AI are skills` with `Many early casualties of AI are tasks`; `tasks` fits the examples more naturally.
+- `L77`: The repeated italics on both instances of `_must_` are a bit heavy; keeping emphasis on just the first one would make the paragraph feel less typographically busy.
+- `L81`: Replace `the most optimal lunch` with `the optimal lunch`; `optimal` already implies `most`.
+- `L83`: Recast `_artifacts, like scripts, with fully understandable inner workings_` to `_artifacts like scripts, whose inner workings are fully understandable_`; the current comma pattern makes the phrase stumble.
+- `L85`: Replace `such that an insane person ... is unable` with `so that an insane person ... would be unable`; it gives the sentence better conditional flow.
+- `L96`: Replace `leaving few places for the slack to go` with `leaving few places for those displaced hours to go`; `slack` is vague here.
+- `L98`: Delete the comma in `how will I pay rent, or afford to eat?`; it breaks a simple `or` pair.
+- `L100`: Delete the comma in `to maintain full employment, if we can get the incentives to line up`; the pause is unnecessary.
+- `L104`: Replace `which corresponds to` with `which correlates with`; it sounds more precise.
+- `L108`: Consider `Here's a way to identify human work _available today_, even if it will eventually be automated.` The current `Here we can identify ... with the following approach` is a bit roundabout.
+- `L110`: Replace `Maybe something like, "You have access ...` with `Maybe something like this: "You have access ...`; it sets up the quoted prompt more cleanly.
+- `L110`: Replace the ellipsis in `... congratulations` with an em dash or colon; the ellipsis feels more conversational than the surrounding tone.
+- `L112`: Replace `used for expanding business over cutting costs` with `used to expand the business rather than cut costs`; clearer and more idiomatic.
+- `L123`: Replace `We're ok with it` with `We're okay with it`; `okay` is the standard form in polished prose.
+- `L127`: Consider varying `a robotics revolution, manufacturing revolution` to avoid repetition, for example `a robotics revolution, a manufacturing boom`.
+- `L133`: Replace `The tech sector's firms` with `Tech-sector firms`; the possessive construction is clunky.
+- `L135`: Drop the quotation marks around `free tiers`; the term is standard enough not to need scare quotes.
+- `L135`: Consider replacing `productionize ideas with business value` with `bring ideas with business value into production`; `productionize` is jargon-heavy.
+- `L137`: Consider `a falling stock market` instead of `a tanking stock market`; it matches the essay's otherwise formal register.
+- `L139`: Replace `things designed to work back when numbers were added up by hand` with `things designed for an era when numbers were added up by hand`; cleaner phrasing.
+- `L143`: Replace `A whole other dimension` with `Another dimension`; it tightens the sentence without losing meaning.
+- `L151`: Drop the quotation marks around `vote` unless you want to signal skepticism specifically there; the quotes distract.
+- `L153`: Replace `While obviously far off` with `While this is obviously far off`; it avoids the dangling opening.
+- `L153`: Replace `there sure were a lot of AI companies who were quickly able to reproduce` with `many AI companies were quickly able to reproduce`; this removes the conversational note.
+- `L153`: Add `was` in `the IP not meaningfully protected` -> `the IP was not meaningfully protected`; the current clause reads clipped.
+- `L158`: Change `Pure digital cognitive-replacement AI` to `Purely digital cognitive-replacement AI`; `purely` is the right adverb here.
+- `L160`: Replace `It is those advancements which will unlock` with `Those advancements will unlock`; the emphasis construction adds weight without much payoff.
+- `L208`: Replace `keeping output organized, and keeping a record` with `keeping output organized and preserving a record`; it avoids the repeated `keeping`.

@@ -2,7 +2,7 @@
 
 # Overview
 
-This is the workspace where I used AI assistance to help me write the essay [AI Anxiety and What We Can Do About It](FIXME).
+This is the workspace where I used AI assistance to help me write the essay [AI Anxiety and What We Can Do About It](https://www.reddit.com/r/ArtificialInteligence/comments/1rulkwr/ai_anxiety_and_what_we_can_do_about_it).
 
 I used OpenAI's [Codex](https://developers.openai.com/codex). I opted for this over the web chat interface because of prior familiarity, as well as easy multi-file input/output, version control, and the ability to select the xhigh reasoning level.
 

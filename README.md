@@ -6,6 +6,8 @@ I used OpenAI's [Codex](https://developers.openai.com/codex), benefits over the 
 
 The [prompts](prompts/) directory is where I saved all the prompts I used, in order, and is likely the most interesting thing here to look at. Full transcripts of the AI output can be found in the [prompts-full-transcripts](prompts-full-transcripts/) directory.
 
+Transcripts were produced with <https://github.com/prateek/codex-transcripts>.
+
 Directory overview:
 - _iteration_: blah blah blah
 - _prompts_: blah blah blah (mention 00 was GPT-5.2 xhigh; rest were GPT-5.4 xhigh)

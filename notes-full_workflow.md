@@ -16,9 +16,9 @@
 - errors of grammar, syntax, spelling, style, etc.
   - single/plural mismatches
   - improper verb forms/conjugations
-- renumber links
+~~- renumber links~~
 - confirm reasonable word/char count
-- also run through libreoffice spellcheck
+~~- also run through libreoffice spellcheck~~
 
 # one final read-through
 
